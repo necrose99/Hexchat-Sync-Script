@@ -1,0 +1,16 @@
+my py /perl foo ain't great or pretty  but i'll see if I can't take one of the hexchat-addon-templates and mangle something... basic..... it might help others whom have to frequently reboot from Windows/Linux or hop around from workstation to workstation Log-in/out offten , (Like @ work) (IE the IT-Admin with 20 laptops to re-image oh no :-(  )  
+
+
+User Targets 
+A: IT admins whom have to run about alot (but wish to keep up on thier FOSS projects or channels of interests)  while flying around like superman with computer parts and software disks.....
+B: Highly mobile users
+C: Frequest Dual/Etc-Rebooters IE Windows/Linux Etc.
+
+
+in-time something safer Log-diff & diff sync to current log ,  diff-channels autojoined 
+send /join #Foo? & /autojoin Foo#  
+https://github.com/necrose99/Hexchat-Sync-Script
+
+todo Add main readme.md... 
+
+its friday time to spin up the MMO and kill mobs  , before I start slaming the wall......
