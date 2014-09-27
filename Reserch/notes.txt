@@ -1,0 +1,14 @@
+http://www.perlmonks.org/?node_id=961290
+something basic..... for hash.
+
+reserch towards script here.... 
+
+Github Dropbox-encfs also might be of use
+
+https://github.com/search?q=Dropbox-encfs&type=Repositories&utf8=%E2%9C%93
+
+http://blog.scottlowe.org/2012/11/23/using-encfs-with-dropbox-and-boxcryptor/
+
+http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCMQFjAA&url=http%3A%2F%2Fwww.perlmonks.org%2F%3Fnode_id%3D152489&ei=qhcmVPzqLcWhyATf-YCQAw&usg=AFQjCNGQjtdakqMlNJH-MG4gPzXK7BVZXg&sig2=5-wWmCoru0p9ly4itCmTOg
+
+https://www.google.com/search?q=perl+encrpyt+via+gpg+public&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a&channel=sb
